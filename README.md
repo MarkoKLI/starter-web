@@ -8,6 +8,10 @@ This is an introduction. Feel introduced or suffer.
 
 ## Purpose
 
+And voil'a the purpose. Yeees, very purposeful, nothing is accidental.
+
 ## Deployment
+
+The last edit? I hope so.
 
 ## How To Contribute
