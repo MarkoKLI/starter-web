@@ -15,3 +15,5 @@ And voil'a the purpose. Yeees, very purposeful, nothing is accidental.
 The last edit? I hope so.
 
 ## How To Contribute
+
+This work is copyrighted. Udemy@2022
